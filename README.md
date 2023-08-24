@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <img src="src/assets/storm_night.svg" alt="Logo">
+  <img src="./assets/icon.png" alt="Logo" height="100">
   <h1 align="center">iweather</h1>
 </div>
 
